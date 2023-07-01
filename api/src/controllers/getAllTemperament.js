@@ -1,5 +1,5 @@
 const axios = require('axios');
-const {Temperament} = require('../db')
+const { Temperament } = require('../db')
 require('dotenv').config();
 const {URL} = process.env;
 
